@@ -59,3 +59,4 @@ class TestProduct:
 #allure open .\reports\allure-html
 
 #to run jenkins locally: java -jar jenkins.war
+#to generate report run the above commands
